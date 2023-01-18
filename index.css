@@ -1,0 +1,40 @@
+.container {
+    width: 25rem;
+    height: auto;
+    margin: 50px auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon {
+    display: flex;
+    flex-direction: row;
+    width: 40px;
+    height: 40px;
+}
+
+.icon-html {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.symbol-points {
+    width: 20px;
+    height: 20px;
+    justify-content: end;
+
+}
+
+.image {
+    height: 100%;
+    width: 100%;
+}
+
+.header-footer {
+    display: flex;
+    justify-content: space-between;
+}
